@@ -1,0 +1,42 @@
+commit 47ebc46500e066fcd8294602aaa56003e7114e8c
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:59:55 2024 +0200
+
+    Añadiendo capitulos
+
+commit 47f728b4c39dfee75d620fe73acbdc3aa0801dda
+Merge: 5892300 c578ead
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:57:17 2024 +0200
+
+    Merge branch 'pruebas'
+
+commit c578ead861ad077c3a80047215cecaee5bab4a5c
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:55:12 2024 +0200
+
+    Añadiendo pagina2
+
+commit 5892300acd29ee11e54cd58163e4eed311216e92
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:54:09 2024 +0200
+
+    Añadiendo página1
+
+commit 104228742eda077e4c339887875c94bf176430de
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:52:41 2024 +0200
+
+    Añadiendo página1
+
+commit 14237c9af49c7387ffd6d849cf5dfc3218ed8ef6
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:31:17 2024 +0200
+
+    Incluyendo index
+
+commit 7396212f05f10f2af4cfdbc23571d72b7f585cbe
+Author: oscar.garciae <geoscar1100@gmail.com>
+Date:   Mon May 6 09:28:16 2024 +0200
+
+    primer commit
